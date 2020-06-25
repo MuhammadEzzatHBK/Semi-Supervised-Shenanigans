@@ -5,4 +5,4 @@ This repo is desired to be a long series of semi supervised learning notebooks. 
 
 This series was inspired by gaming serieses across the globe, as I believe that it is time tio have fun with our regular everyday activities including work. In such hard times of quaraentine such mentality is demanded.
 
-This repo is empty at the moment but it will soon be updated with notebooks, each notebook represents an episode of the series with a different dataset to be experimented.
+~~This repo is empty at the moment~~ but it will soon be updated with notebooks **The first episode is out !!**, each notebook represents an episode of the series with a different dataset to be experimented.
